@@ -1,6 +1,3 @@
-JS
-
-
 // Selecionar elementos traduzidos para português
 const formularioGasto = document.getElementById('formulario-gasto');
 const tabelaGastos = document.getElementById('tabela-gastos').querySelector('tbody');
